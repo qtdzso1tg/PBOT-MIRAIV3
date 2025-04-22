@@ -20,14 +20,14 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "FACEBOOK_ADMIN": "",
-    "BOTNAME": "P-MIRAIV3",
-    "PREFIX": "/",
-    "BOXADMIN": "9480819391950156",
+    "BOTNAME": "Meo Meo",
+    "PREFIX": "!",
+    "BOXADMIN": "",
     "ADMINBOT": [
-        "100047128875560"
+        "100051439970359"
     ],
     "NDH": [
-        "100047128875560",
+        "100051439970359",
         "",
         ""
     ],
